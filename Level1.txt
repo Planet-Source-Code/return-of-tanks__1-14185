@@ -1,0 +1,24 @@
+4
+"\quicktank.dat"
+"\Scrap1.dat"
+"\Scrap2.dat"
+"\bang.dat"
+
+WorldSpace, 1
+Object, 1
+Model, 1
+Origin.X, -3
+
+WorldSpace, 2
+Object, 1
+Model, 1
+Origin.X, -12
+Angle.Y, -90
+Target, 1
+
+WorldSpace, 3
+Object, 1
+Model, 1
+Origin.z, -12
+Angle.Y, -90
+Target, 1
